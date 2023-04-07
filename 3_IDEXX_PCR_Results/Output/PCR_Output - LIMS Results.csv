@@ -1,0 +1,8 @@
+qPCR Plate Barcode,Well ID,Sample Barcode,Ct SARS,Ct RP
+PCR_Output,A1,Sample1,Undetermined,30.8623
+PCR_Output,B1,Sample2,Undetermined,29.2053
+PCR_Output,C1,Sample3,Undetermined,29.7594
+PCR_Output,E12,,33.8991,25.9164
+PCR_Output,F12,,Undetermined,Undetermined
+PCR_Output,G12,,30.8246,31.0931
+PCR_Output,H12,,Undetermined,Undetermined

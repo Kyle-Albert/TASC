@@ -1,0 +1,109 @@
+* Block Type = 96fast
+* Chemistry = TAQMAN
+* Experiment File Name = C:\Applied Biosystems\7500\experiments\CF91LU7Z.eds
+* Experiment Run End Time = 2021-06-03 15:28:45 PM EDT
+* Instrument Type = sds7500fast
+* Passive Reference = ROX
+
+[Results]
+Well	Sample Name	Target Name	Task	Reporter	Quencher	Cт	Cт Mean	Cт SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Comments	NOAMP	EXPFAIL
+A1	Sample1	RP	UNKNOWN	VIC	None	30.8623	30.8623					false	0.1099	true	3	27		N	Y
+A1	Sample1	SARS-CoV-2	UNKNOWN	FAM	None	Undetermined						false	0.0823	true	3	44		N	Y
+A2																		N	N
+A3																		N	N
+A4																		N	N
+A5																		N	N
+A6																		N	N
+A7																		N	N
+A8																		N	N
+A9																		N	N
+A10																		N	N
+A11																		N	N
+A12																		N	N
+B1	Sample2	RP	UNKNOWN	VIC	None	29.2053	29.2053					false	0.1099	true	3	25		N	Y
+B1	Sample2	SARS-CoV-2	UNKNOWN	FAM	None	Undetermined						false	0.0823	true	3	44		N	Y
+B2																		N	N
+B3																		N	N
+B4																		N	N
+B5																		N	N
+B6																		N	N
+B7																		N	N
+B8																		N	N
+B9																		N	N
+B10																		N	N
+B11																		N	N
+B12																		N	N
+C1	Sample3	RP	UNKNOWN	VIC	None	29.7594	29.7594					false	0.1099	true	3	26		N	Y
+C1	Sample3	SARS-CoV-2	UNKNOWN	FAM	None	Undetermined						false	0.0823	true	3	44		N	Y
+C2																		N	N
+C3																		N	N
+C4																		N	N
+C5																		N	N
+C6																		N	N
+C7																		N	N
+C8																		N	N
+C9																		N	N
+C10																		N	N
+C11																		N	N
+C12																		N	N
+D1																		N	N
+D2																		N	N
+D3																		N	N
+D4																		N	N
+D5																		N	N
+D6																		N	N
+D7																		N	N
+D8																		N	N
+D9																		N	N
+D10																		N	N
+D11																		N	N
+D12																		N	N
+E2																		N	N
+E3																		N	N
+E4																		N	N
+E5																		N	N
+E6																		N	N
+E7																		N	N
+E8																		N	N
+E9																		N	N
+E10																		N	N
+E11																		N	N
+E12	PEC	RP	UNKNOWN	VIC	None	25.9164	25.9164					false	0.1099	true	3	22		N	N
+E12	PEC	SARS-CoV-2	UNKNOWN	FAM	None	33.8991	33.8991					false	0.0823	true	3	30		N	N
+F2																		N	N
+F3																		N	N
+F4																		N	N
+F5																		N	N
+F6																		N	N
+F7																		N	N
+F8																		N	N
+F9																		N	N
+F10																		N	N
+F11																		N	N
+F12	NEC	RP	UNKNOWN	VIC	None	Undetermined						false	0.1099	true	3	44		Y	Y
+F12	NEC	SARS-CoV-2	UNKNOWN	FAM	None	Undetermined						false	0.0823	true	3	44		Y	Y
+G2																		N	N
+G3																		N	N
+G4																		N	N
+G5																		N	N
+G6																		N	N
+G7																		N	N
+G8																		N	N
+G9																		N	N
+G10																		N	N
+G11																		N	N
+G12	PAC	RP	UNKNOWN	VIC	None	31.0931	31.0931					false	0.1099	true	3	27		N	N
+G12	PAC	SARS-CoV-2	UNKNOWN	FAM	None	30.8246	30.8246					false	0.0823	true	3	27		N	N
+H1																		N	N
+H2																		N	N
+H3																		N	N
+H4																		N	N
+H5																		N	N
+H6																		N	N
+H7																		N	N
+H8																		N	N
+H9																		N	N
+H10																		N	N
+H11																		N	N
+H12	NTC	RP	UNKNOWN	VIC	None	Undetermined						false	0.1099	true	3	44		Y	Y
+H12	NTC	SARS-CoV-2	UNKNOWN	FAM	None	Undetermined						false	0.0823	true	3	44		Y	Y
