@@ -1,0 +1,37 @@
+* Block Type = 96fast
+* Chemistry = TAQMAN
+* Experiment File Name = C:\Applied Biosystems\7500\bin\Untitled
+* Experiment Run End Time = Not Started
+* Instrument Type = sds7500fast
+* Passive Reference = ROX
+
+[Sample Setup]
+Well	Sample Name	Sample Color	Biogroup Name	Biogroup Color	Target Name	Target Color	Task	Reporter	Quencher	Quantity	Comments
+A1	Sample1				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+A1	Sample1				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+A2	Sample9				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+A2	Sample9				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+B1	Sample2				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+B1	Sample2				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+B2	Sample10				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+B2	Sample10				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+C1	Sample3				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+C1	Sample3				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+D1	Sample4				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+D1	Sample4				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+E1	Sample5				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+E1	Sample5				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+E12	PEC	"RGB(132,193,241)"			RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+E12	PEC	"RGB(132,193,241)"			SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+F1	Sample6				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+F1	Sample6				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+F12	NEC	"RGB(168,255,222)"			RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+F12	NEC	"RGB(168,255,222)"			SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+G1	Sample7				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+G1	Sample7				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+G12	PAC	"RGB(223,221,142)"			RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+G12	PAC	"RGB(223,221,142)"			SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+H1	Sample8				RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+H1	Sample8				SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		
+H12	NTC	"RGB(247,255,168)"			RP	"RGB(208,243,98)"	UNKNOWN	VIC	None		
+H12	NTC	"RGB(247,255,168)"			SARS-CoV-2	"RGB(139,189,249)"	UNKNOWN	FAM	None		

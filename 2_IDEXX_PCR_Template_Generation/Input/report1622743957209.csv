@@ -1,0 +1,15 @@
+qPCR Plate Barcode,Sample Barcode,Well ID,Sample Type
+PCR_Barcode,Sample1,A1,Clinical Sample
+PCR_Barcode,Sample2,B1,Clinical Sample
+PCR_Barcode,Sample3,C1,Clinical Sample
+PCR_Barcode,Sample4,D1,Clinical Sample
+PCR_Barcode,Sample5,E1,Clinical Sample
+PCR_Barcode,Sample6,F1,Clinical Sample
+PCR_Barcode,Sample7,G1,Clinical Sample
+PCR_Barcode,Sample8,H1,Clinical Sample
+PCR_Barcode,Sample9,A2,Clinical Sample
+PCR_Barcode,Sample10,B2,Clinical Sample
+PCR_Barcode,,E12,PEC
+PCR_Barcode,,F12,NEC
+PCR_Barcode,,G12,PAC
+PCR_Barcode,,H12,NTC
