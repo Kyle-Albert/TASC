@@ -6,7 +6,7 @@ The basic function of each script is to take an input and produce an output. The
 
 Files which were previously in the "Output" folder are moved to the "Archive" folder. Files processed from "Input" are moved to "Archive" as well.
 
-### 1_IDEXX_Extraction/IDEXX_Extraction_Scan.py
+## 1_IDEXX_Extraction/IDEXX_Extraction_Scan.py
 This script inputs a textfile, where the name of the textfile is the barcode for the extraction plate (sample_barcode.txt), and where each line of the text file contains a sample barcode (following wells A1=1, B1=2,..., A2=9, B2=10,..., D12=92).
 
 There are 2 outputs:
@@ -17,12 +17,28 @@ In our lab, we had barcode scanners programmed to "Enter" to a new line automati
 
 IDEXX_Plate_Map.py will just generate a platemap to print out, instead of generating both a csv and platemap.
 
-### 2_IDEXX_PCR_Template_Generation/IDEXX_PCR_Template.py
+### Input/Output
+| Input | Output |
+| --- | --- |
+| ![](figures/1_input.png) | ![](figures/1_output1.png) |
+| --- | ![](figures/1_output2.png) |
+
+## 2_IDEXX_PCR_Template_Generation/IDEXX_PCR_Template.py
 This script inputs a csv file downloaded from LIMS containing the sample barcodes, with their well ID, and the PCR plate barcode.
 
 This script outputs a textfile of the PCR template to uploaded onto the 7500 software.
 
-### 3_IDEXX_PCR_Results/IDEXX_Results.py
+### Input/Output
+| Input | Output |
+| --- | --- |
+| ![](figures/2_input.png) | ![](figures/2_output.png) |
+
+## 3_IDEXX_PCR_Results/IDEXX_Results.py
 This script inputs a textfile containing the exported results of a PCR run.
 
 This script outputs a csv file to be uploaded to LIMS containing each samples and controls RP and SARS Ct values.
+
+### Input/Output
+| Input | Output |
+| --- | --- |
+| ![](figures/3_input.png) | ![](figures/3_output.png) |
