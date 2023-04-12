@@ -1,10 +1,11 @@
 # TASC
-These scripts function to help track the information about samples as they move through the lab. Starting with the extraction process, creating a plate map and upload the well ID of each sample to our Laboratory Information Management System (LIMS), prepare PCR templates for 7500 software, and convert PCR results to upload to LIMS.
+These scripts function to help track the information about samples as they move through the lab. Starting with the extraction process, a plate map is created and a file with the well ID of each sample is created to upload to our Laboratory Information Management System (LIMS). A PCR templates for 7500 software is created, and the results from the PCR run are converted to a file to be uploaded to LIMS.
 
 ## How to use
 The basic function of each script is to take an input and produce an output. These scripts are designed for non-techincal users/users of any computer literacy level. A user will put a file into an "Input" folder, launch the script (on Windows this can be done by double-clicking script.py), and select which files to process. Processed files are in the "Output" folder.
 
 Files which were previously in the "Output" folder are moved to the "Archive" folder. Files processed from "Input" are moved to "Archive" as well.
+![](figures/menu.png)
 
 ## 1_IDEXX_Extraction/IDEXX_Extraction_Scan.py
 This script inputs a textfile, where the name of the textfile is the barcode for the extraction plate (sample_barcode.txt), and where each line of the text file contains a sample barcode (following wells A1=1, B1=2,..., A2=9, B2=10,..., D12=92).
