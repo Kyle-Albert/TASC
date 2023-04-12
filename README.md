@@ -21,7 +21,7 @@ IDEXX_Plate_Map.py will just generate a platemap to print out, instead of genera
 | Input | Output |
 | --- | --- |
 | ![](figures/1_input.png) | ![](figures/1_output1.png) |
-| --- | ![](figures/1_output2.png) |
+|  | ![](figures/1_output2.png) |
 
 ## 2_IDEXX_PCR_Template_Generation/IDEXX_PCR_Template.py
 This script inputs a csv file downloaded from LIMS containing the sample barcodes, with their well ID, and the PCR plate barcode.
