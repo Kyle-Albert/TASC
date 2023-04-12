@@ -240,7 +240,6 @@ ws = wb['Extraction Plate']
 ws2 = wb['Scans']
 ws.cell(1 , 4, extractionbarcode)
 ws.cell(1 , 9, datetime.now().strftime("%m/%d/%Y"))
-ws.cell(1 , 13, 'KEA')
 
 
 for i in range(barcode_len):
